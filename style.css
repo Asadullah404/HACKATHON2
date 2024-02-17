@@ -1,0 +1,65 @@
+.a1{
+    margin-left: 26px;
+    margin-right: 26px;
+}
+.a11{
+    color: brown;
+}
+.shop-now-button {
+    /* Style the button here */
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .text-box {
+    /* Create a box with a border and padding */
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+  
+    /* Center the text horizontally and vertically */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .text-box2 {
+    /* Create a box with a border and padding */
+   
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+  
+    /* Center the text horizontally and vertically */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+    
+  .image-container {
+    text-align: center;
+  }
+  .text-box3 {
+    /* Create a box with a border and padding */
+   color: rgb(77, 77, 77);
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+  
+    /* Center the text horizontally and vertically */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.box{
+    display: inline-block;
+}
+.box2{
+    background-color: black;
+}
